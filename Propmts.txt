@@ -1,0 +1,28 @@
+try out prompts on https://chat.openai.com/
+
+####### Practicing through question #######
+
+Promt:
+Ask a multiple choice question that will test application of fundamental software engineering concept after responde give me feedback on my answer
+
+
+####### Study Planner #######
+
+Promt:
+Act as an expert study coach. I need to revise the microeconomics concepts of  supply and demand,  elasticity, and , game theory. I have 3 hours a day over the next 4 days to study.
+
+
+####### Step by step instruction for solving problem #######
+
+Promt:
+Sometimes, getting the final answer may not be enough to understand how to solve a problem, especially in physics and mathematics. You can ask ChatGPT for help in situations like these by basically using a prompt that goes, “I will give you a problem, and I want you to solve it while explaining it to me step by step.
+
+####### Create best daily shedual #######
+
+Promt:
+Creating a daily shedual that include everything going in my life to help me get more decipline.
+
+####### C Language Learning #######
+
+Promt:
+learning C, you will be able to understand and visualise the inner workings of computer systems (like allocation and memory management), their architecture and the overall concepts that drive programming. As a programming language, C also allows you to write more complex and comprehensive programs
